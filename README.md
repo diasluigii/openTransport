@@ -11,8 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
 simuler ce conflit sur votre poste de travail
+espace de stockage cloud
 ```
 
 ### Installation
