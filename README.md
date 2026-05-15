@@ -8,11 +8,16 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+```Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-```
-A définir
+Récapitulons ensemble :
+
+Premièrement, pour conserver la version distante, j’ai utilisé la commande : git checkout --theirs README.md.
+
+Deuxièmement, pour conserver la version locale, j’ai utilisé la commande : git checkout --ours README.md.
+
 simuler ce conflit sur votre poste de travail
+espace de stockage cloud
 ```
 
 ### Installation
